@@ -6872,16 +6872,16 @@
             modules: [],
             observer: true,
             observeParents: true,
-            slidesPerView: 1.5,
+            slidesPerView: 1.3,
             spaceBetween: 12,
             autoHeight: true,
             speed: 800,
             breakpoints: {
                 320: {
-                    slidesPerView: 1.2
+                    slidesPerView: 1.09
                 },
                 479: {
-                    slidesPerView: 1.5
+                    slidesPerView: 1.3
                 }
             },
             on: {}

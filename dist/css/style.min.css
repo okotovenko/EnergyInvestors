@@ -2479,7 +2479,7 @@ button.swiper-pagination-bullet {
 	}
 
 	.contacts__right {
-		row-gap: 2.5rem
+		row-gap: 40px
 	}
 
 	.contacts__or {
@@ -2495,7 +2495,7 @@ button.swiper-pagination-bullet {
 	}
 
 	.contacts {
-		padding-bottom: 6.25rem
+		padding-bottom: 100px
 	}
 }
 
